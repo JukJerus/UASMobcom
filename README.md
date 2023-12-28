@@ -14,4 +14,10 @@ LibraryPro merupakan aplikasi android sederhana untuk pencatatan buku di suatu p
 3. **Mengedit Buku** ![update](https://github.com/JukJerus/UASMobcom/assets/94906828/95f008f6-2d0d-4d3d-afa0-4d923ede343b) Jika terdapat kesalahan ketika menambahkan data buku, pengguna juga bisa mengedit judul buku dan penulis buku yang telah ditampilkan di tampilan awal aplikasi. <br>
 4. **Menghapus Buku** ![list](https://github.com/JukJerus/UASMobcom/assets/94906828/1ca8a563-c1c5-4f37-809d-4e8a854af5b2) Pengguna juga bisa menghapus buku yang telah dicatat dalam aplikasi tersebut dengan menekan tombol tong sampah.
 
+## Database
+![db](https://github.com/JukJerus/UASMobcom/assets/94906828/50c64cf6-5669-46ff-aff6-a75402dfaa08)
 
+
+## Link Video
+Untuk penjelasan fitur lebih lanjut bisa lihat link video berikut
+https://youtu.be/rZSkDLJwltY
